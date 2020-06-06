@@ -43,7 +43,7 @@ responses:
   - text: "Bye"
 
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+  - text: "I am a bot, developed by dude called Dragos."
 
   utter_how_can_i_help:
   - text: "Hello. I am a medicare locator. I can help you find nearest hospital. How may I help?"
