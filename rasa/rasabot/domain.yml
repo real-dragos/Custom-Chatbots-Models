@@ -9,6 +9,10 @@ intents:
   - inform
   - search_provider
   - thanks
+  - feeling
+  - help
+  - purpose
+  - name
 
 entities:
   - location
@@ -43,15 +47,27 @@ responses:
   - text: "Bye"
 
   utter_iamabot:
-  - text: "I am a bot, developed by dude called Dragos."
+  - text: "I am a bot, developed by a dude called Dragos."
 
   utter_how_can_i_help:
   - text: "Hello. I am a medicare locator. I can help you find nearest hospital. How may I help?"
-  - text: "Hi. My name is medicare locator. How can Ihelp you today?"
+  - text: "Hi. I am a medicare locator. How can I help you today?"
 
   utter_ask_location:
   - text: "Can you provide your location please?"
   - text: "To find the nearest {facility_type} I need your address"
+
+  utter_name:
+  - text: "My name is Claiborne"
+
+  utter_feeling:
+  - text: "I am fine. What about you?"
+  
+  utter_help:
+  - text:
+
+  utter_purpose:
+  - text:
 
 session_config:
   session_expiration_time: 60

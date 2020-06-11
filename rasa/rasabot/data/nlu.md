@@ -74,3 +74,24 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:name
+- What's your name?
+- What is your name?
+- Do you have a name?
+- How are you called?
+- How can I call you?
+
+## intent:purpose
+- What can you do?
+- What is your purpose?
+
+## intent:help
+- I need help
+- How can you help me?
+- I need assistance
+
+## intent:feeling
+- How are you?
+- What's up?
+- How about you?

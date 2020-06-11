@@ -23,6 +23,11 @@
 * mood_great
   - utter_happy
 
+## feeling path
+
+* feeling
+  - utter_feeling
+
 ## sad path 1
 * greet
   - utter_greet
@@ -45,6 +50,24 @@
 * goodbye
   - utter_goodbye
 
+## provide name
+* name
+  - utter_name
+  - utter_how_can_i_help
+
+## purpose
+
+* purpose
+  - utter_purpose
+
+## ask for help
+
+* help
+  - utter_name
+  - utter_how_can_i_help
+
 ## bot challenge
 * bot_challenge
   - utter_iamabot
+
+
